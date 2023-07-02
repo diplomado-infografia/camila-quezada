@@ -21,7 +21,10 @@
         <meta property="twitter:image" content="https://github.com/diplomado-infografia/camila-quezada/assets/103609379/2c1be1e1-ae08-413f-bbc9-82b8bc4c4ad7" />
         <!-- Link al CSS de Boostrap -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous" />
+        <!-- Algo más de CSS para personalizar-->
         <style>
+             /* importando una fuente */
+            @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;600&display=swap');
             /* para ajustar el ancho de párrafos */
             @media (min-width: 768px) {
                 .container {
@@ -33,9 +36,17 @@
                 --bs-link-color-rgb: 23, 27, 31;
                 --bs-link-hover-color-rgb: 0, 0, 0;
             }
-            /* para ajustar algo lost in translation */
-            em,
-            cite {
+            /* para asignar la fuente importada a los títulos */
+            h1,h2,h3,h4,h5,h6{
+                font-family: 'Roboto Slab', serif;
+                font-weight: 600;
+            }
+            /* para el título principal */
+            .display-3{
+                font-weight: 400;
+            }
+            /* para ajustar algo que queda lost in translation */
+            em, cite {
                 font-weight: 600;
                 font-style: normal;
             }
@@ -43,7 +54,19 @@
     </head>
     <body>
         <!--el encabezado-->
-        <header></header>
+        <header>
+            <div class="container">
+                <div class="row py-5">
+                    <div class="mx-auto col-sm-11 col-md-10">
+                        <h1 class="text-center display-3 my-0">Ciclismo en ruta</h1>
+                        <h2 class="text-center fs-3 mt-0 mb-3">Juegos Panamericanos de 2023</h2>
+                        <h3 class="text-center fs-6">Por Camila Quezada</h3>
+                        <h4 class="text-center fs-6 mb-5 fw-normal text-body-secondary">4 DE JULIO, 2023</h4>
+                        <p class="lead">Reemplazar este texto con un lead o una entradilla breve y concisa, que capte la atención e invite al scroll. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non pulvinar metus, sit amet auctor enim. Pellentesque nec massa id lacus tempor euismod.</p>
+                    </div>
+                </div>
+            </div>
+        </header>
         <!--la parte principal-->
         <main>
             <!--llamaremos artículo a cada parte de la infografía-->
@@ -98,14 +121,7 @@
                 <div class="row px-2 px-sm-3 px-md-4 px-lg-5 py-4 small">
                     <div class="col-12">
                         <p class="m-0 small d-flex justify-content-between align-items-center">
-                            <a
-                                href="https://educacioncontinua.uc.cl/programas/diplomado-uc-online-infografia/"
-                                class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            >
-                                Diplomado en Infografía
-                            </a>
+                            <a href="https://educacioncontinua.uc.cl/programas/diplomado-uc-online-infografia/" class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" target="_blank" rel="noopener noreferrer">Diplomado en Infografía</a>
                             <a href="https://diseno.uc.cl/" class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" target="_blank" rel="noopener noreferrer">Escuela de Diseño</a>
                             <a href="https://www.uc.cl/" class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" target="_blank" rel="noopener noreferrer">
                                 <span class="d-md-none">PUC</span><span class="d-none d-md-inline">Pontificia Universidad Católica de Chile</span>
