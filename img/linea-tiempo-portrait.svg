@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 1000">
+<style type="text/css">
+	@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@0,300;0,500;1,300;1,500');
+	.st0{fill:none;stroke:#DDDBDC;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{fill:#DDDBDC;}
+	.st2{fill:none;stroke:#DDDBDC;stroke-width:4;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#1D1D1B;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill:#F4E6D2;stroke:#CC1719;stroke-miterlimit:10;}
+	.st5{fill:#CC1719;}
+	.st6{fill:none;stroke:#1D1E1C;stroke-linecap:round;stroke-miterlimit:10;}
+	.st7{fill:#1D1E1C;}
+	.st8{fill:none;stroke:#1D1E1C;stroke-miterlimit:10;}
+	.st9{fill:#1D1D1B;}
+	.st10{font-family:'Barlow Semi Condensed', sans-serif;
+		font-weight: 500;
+		font-style: medium;}
+	.st11{font-size:21.0973px;}
+	.st12{fill:none;}
+	.st13{fill:#1E1E1C;}
+	.st14{font-family:'Barlow Semi Condensed', sans-serif;
+		font-weight: 500;
+		font-style: italic;}
+	.st15{font-size:26.3716px;}
+	.st16{font-family:'Barlow Semi Condensed', sans-serif;
+		font-weight: 300;
+		font-style: italic;}
+	.st17{font-family:'Barlow Semi Condensed', sans-serif;
+		font-weight: 300;
+		font-style: light;}
+</style>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 313.5559 688.4622)" class="st9 st10 st11">1987</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 312.9236 742.9636)" class="st9 st10 st11">1995</text>
+	</g>
+	<g>
+		<rect x="384.3" y="636.8" class="st12" width="283.3" height="64.9"/>
+		<text transform="matrix(1 0 0 1 384.2571 659.1997)"><tspan x="0" y="0" class="st13 st14 st15">Panamericanos</tspan><tspan x="0" y="31.6" class="st13 st16 st15">Indianápolis, Estados Unidos</tspan></text>
+	</g>
+	<g>
+		<rect x="384.3" y="721.6" class="st12" width="283.3" height="64.9"/>
+		<text transform="matrix(1 0 0 1 384.259 743.9849)"><tspan x="0" y="0" class="st13 st14 st15">Panamericanos</tspan><tspan x="0" y="31.6" class="st13 st16 st15">Mar del Plata, Argentina</tspan></text>
+	</g>
+	<g>
+		<rect x="37.9" y="631.8" class="st12" width="208.5" height="74.1"/>
+		<text transform="matrix(1 0 0 1 41.7502 654.1997)"><tspan x="0" y="0" class="st13 st16 st15">Se suma la categoría </tspan><tspan x="36.9" y="31.6" class="st13 st16 st15">femenina en ruta</tspan></text>
+	</g>
+	<g>
+		<rect x="32.5" y="721.6" class="st12" width="213.9" height="64.9"/>
+		<text transform="matrix(1 0 0 1 34.3948 743.9888)"><tspan x="0" y="0" class="st13 st16 st15">Se incluye la mujer en </tspan><tspan x="19" y="31.6" class="st13 st16 st15">carrera contrarreloj</tspan></text>
+	</g>
+	<g>
+		<g>
+			<line class="st2" x1="359.8" y1="84.1" x2="359.8" y2="923.8"/>
+			<g>
+				<polygon class="st1" points="363.5,923.3 356.2,923.3 359.8,926.9 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 384.2579 93.6335)"><tspan x="0" y="0" class="st13 st14 st15">JJ.OO.</tspan><tspan x="0" y="31.6" class="st13 st16 st15">Atenas, Grecia</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 384.2578 444.7339)"><tspan x="0" y="0" class="st13 st14 st15">Panamericanos</tspan><tspan x="0" y="31.6" class="st13 st16 st15">Buenos Aires, Argentina</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 312.6912 93.6338)" class="st9 st10 st11">1896</text>
+	</g>
+	<text transform="matrix(1 0 0 1 313.7454 279.814)" class="st9 st17 st11">1925</text>
+	<g>
+		<text transform="matrix(1 0 0 1 316.6672 444.7339)" class="st9 st10 st11">1951</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 307.9443 924.3721)" class="st9 st10 st11">2023</text>
+	</g>
+	<line class="st3" x1="367.8" y1="109.6" x2="351.9" y2="109.6"/>
+	<line class="st3" x1="367.8" y1="273.1" x2="351.9" y2="273.1"/>
+	<line class="st3" x1="367.8" y1="436.5" x2="351.9" y2="436.5"/>
+	<line class="st3" x1="365.2" y1="681.7" x2="355.3" y2="681.7"/>
+	<line class="st3" x1="365.2" y1="736.2" x2="355.3" y2="736.2"/>
+	<ellipse class="st4" cx="359.8" cy="436.8" rx="7.3" ry="7.3"/>
+	<ellipse class="st5" cx="359.8" cy="84.1" rx="7.3" ry="7.3"/>
+	<g>
+		<g>
+			<line class="st8" x1="258.7" y1="681.7" x2="305.8" y2="681.7"/>
+			<g>
+				<circle class="st7" cx="305.8" cy="681.7" r="1.5"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st8" x1="258.9" y1="736.2" x2="305.8" y2="736.2"/>
+			<g>
+				<circle class="st7" cx="305.8" cy="736.2" r="1.5"/>
+			</g>
+		</g>
+	</g>
+	<ellipse class="st5" cx="359.8" cy="681.7" rx="7.3" ry="7.3"/>
+	<ellipse class="st5" cx="359.8" cy="736.2" rx="7.3" ry="7.3"/>
+</g>
+</svg>

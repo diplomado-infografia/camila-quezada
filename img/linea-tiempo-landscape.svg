@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" style="enable-background:new 0 0 1000 340;">
+<style type="text/css">
+	@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@0,300;0,500;1,300;1,500');
+	.st0{fill:none;stroke:#DDDBDC;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{fill:#DDDBDC;}
+	.st2{fill:none;stroke:#DDDBDC;stroke-width:4;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#1D1D1B;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill:#F4E6D2;stroke:#CC1719;stroke-miterlimit:10;}
+	.st5{fill:#CC1719;}
+	.st6{fill:none;stroke:#1D1E1C;stroke-linecap:round;stroke-miterlimit:10;}
+	.st7{fill:#1D1E1C;}
+	.st8{fill:none;}
+	.st9{fill:#1D1D1B;}
+	.st10{font-family:'Barlow Semi Condensed', sans-serif;
+		font-weight: 500;
+		font-style: medium;}
+	.st11{font-size:22.078px;}
+	.st12{fill:#1E1E1C;}
+	.st13{font-family:'Barlow Semi Condensed', sans-serif;
+		font-weight: 500;
+		font-style: italic;}
+	.st14{font-size:27.5975px;}
+	.st15{font-family:'Barlow Semi Condensed', sans-serif;
+		font-weight: 300;
+		font-style: italic}
+	.st16{font-family:'Barlow Semi Condensed', sans-serif;
+		font-weight: 300;
+		font-style: light;}
+	.st17{fill:none;stroke:#1D1E1C;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<line class="st0" x1="685.4" y1="156.2" x2="685.4" y2="83"/>
+		<g>
+			<path class="st1" d="M688.4,156.2c0,1.7-1.3,3-3,3c-1.7,0-3-1.3-3-3c0-1.7,1.3-3,3-3C687,153.2,688.4,154.6,688.4,156.2z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st2" x1="60.1" y1="157.2" x2="938.9" y2="157.2"/>
+		<g>
+			<polygon class="st1" points="938.4,153.5 938.4,160.8 942.1,157.2 			"/>
+		</g>
+	</g>
+</g>
+<line class="st3" x1="86.7" y1="148.9" x2="86.7" y2="165.5"/>
+<line class="st3" x1="257.8" y1="148.9" x2="257.8" y2="165.5"/>
+<line class="st3" x1="428.9" y1="148.9" x2="428.9" y2="165.5"/>
+<line class="st3" x1="685.5" y1="151.6" x2="685.5" y2="162"/>
+<line class="st3" x1="742.5" y1="151.6" x2="742.5" y2="162"/>
+<ellipse class="st4" cx="429.1" cy="157.2" rx="7.7" ry="7.6"/>
+<ellipse class="st5" cx="60.1" cy="157.2" rx="7.7" ry="7.6"/>
+<g>
+	<g>
+		<polyline class="st6" points="685.5,202.6 685.5,243.4 587.1,243.4 587.1,254.4 		"/>
+		<g>
+			<path class="st7" d="M684,202.6c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5c0,0.8-0.7,1.5-1.5,1.5
+				C684.6,204.1,684,203.4,684,202.6z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<polyline class="st6" points="742.5,202.6 742.5,243.4 832.9,243.4 832.9,254.4 		"/>
+		<g>
+			<path class="st7" d="M741,202.6c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5c0,0.8-0.7,1.5-1.5,1.5
+				C741.6,204.1,741,203.4,741,202.6z"/>
+		</g>
+	</g>
+</g>
+<ellipse class="st5" cx="685.5" cy="157.2" rx="7.7" ry="7.6"/>
+<ellipse class="st5" cx="742.5" cy="157.2" rx="7.7" ry="7.6"/>
+<g>
+	<g>
+		<rect x="661.4" y="168" class="st8" width="37" height="23.4"/>
+		<text transform="matrix(1 0 0 1 661.4292 186.8103)" class="st9 st10 st11">1987</text>
+	</g>
+	<g>
+		<rect x="718.1" y="168" class="st8" width="37.7" height="23.4"/>
+		<text transform="matrix(1 0 0 1 718.1333 186.8103)" class="st9 st10 st11">1995</text>
+	</g>
+	<g>
+		<rect x="482.6" y="12.5" class="st8" width="296.4" height="67.9"/>
+		<text transform="matrix(1 0 0 1 548.5552 35.9109)"><tspan x="0" y="0" class="st12 st13 st14">Panamericanos</tspan><tspan x="-64.8" y="33.1" class="st12 st15 st14">Indianápolis, Estados Unidos</tspan></text>
+	</g>
+	<g>
+		<rect x="467.9" y="254.1" class="st8" width="218.2" height="73.4"/>
+		<text transform="matrix(1 0 0 1 467.9146 277.6038)"><tspan x="0" y="0" class="st12 st15 st14">Se suma la categoría </tspan><tspan x="0" y="33.1" class="st12 st15 st14">femenina de ruta</tspan></text>
+	</g>
+	<g>
+		<rect x="713.8" y="254.1" class="st8" width="247.7" height="73.4"/>
+		<text transform="matrix(1 0 0 1 713.8413 277.6038)"><tspan x="0" y="0" class="st12 st15 st14">Se incluye a la mujer en </tspan><tspan x="0" y="33.1" class="st12 st15 st14">carreras contrarreloj</tspan></text>
+	</g>
+	<g>
+		<rect x="38.9" y="79.3" class="st8" width="147.9" height="62.3"/>
+		<text transform="matrix(1 0 0 1 38.9097 102.7683)"><tspan x="0" y="0" class="st12 st13 st14">JJ.OO.</tspan><tspan x="0" y="33.1" class="st12 st15 st14">Atenas, </tspan></text>
+	</g>
+	<g>
+		<rect x="283.5" y="77.6" class="st8" width="286" height="62.3"/>
+		<text transform="matrix(1 0 0 1 344.2788 101.0921)"><tspan x="0" y="0" class="st12 st13 st14">Panamericanos</tspan><tspan x="-40.1" y="33.1" class="st12 st15 st14">Buenos Aires, Argentina</tspan></text>
+	</g>
+	<g>
+		<rect x="38.5" y="167.8" class="st8" width="37.9" height="23.4"/>
+		<text transform="matrix(1 0 0 1 38.4995 186.5891)" class="st9 st10 st11">1896</text>
+	</g>
+	<rect x="233.9" y="167.8" class="st8" width="36.8" height="23.4"/>
+	<text transform="matrix(1 0 0 1 233.8853 186.5891)" class="st9 st16 st11">1925</text>
+	<g>
+		<rect x="408.1" y="167.8" class="st8" width="33.6" height="23.4"/>
+		<text transform="matrix(1 0 0 1 411.208 186.5891)" class="st9 st10 st11">195</text>
+	</g>
+	<g>
+		<rect x="897.4" y="167.8" class="st8" width="64.1" height="23.4"/>
+		<text transform="matrix(1 0 0 1 907.9761 186.5891)" class="st9 st10 st11">2023</text>
+	</g>
+	<g>
+		<rect x="702" y="77.3" class="st8" width="250.5" height="62.3"/>
+		<text transform="matrix(1 0 0 1 745.02 100.7566)"><tspan x="0" y="0" class="st12 st13 st14">Panamericanos</tspan><tspan x="-39.4" y="33.1" class="st12 st15 st14">Mar del Plata, Argentina</tspan></text>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100">
+<style type="text/css">
+	@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400');
+	.st0{fill:#1E1E1C;}
+	.st1{font-family:'Barlow Semi Condensed', sans-serif;
+		font-weight: 400;
+		font-style: regular;}
+	.st2{font-size:29.2935px;}
+	.st3{fill:#D13829;}
+</style>
+<g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 77.7349 57.1414)" class="st0 st1 st2">Hombres</text>
+		</g>
+		<rect x="197.4" y="35.5" class="st3" width="141" height="25.7"/>
+		<g>
+			<text transform="matrix(1 0 0 1 356.3442 61.5476)" class="st0 st1 st2">177 km</text>
+		</g>
+	</g>
+	<g>
+		<rect x="691.2" y="32.2" class="st3" width="63.6" height="25.7"/>
+		<text transform="matrix(1 0 0 1 573.0303 57.1414)" class="st0 st1 st2">Mujeres</text>
+		<text transform="matrix(1 0 0 1 853.4556 57.1414)" class="st0 st1 st2">80 km</text>
+	</g>
+</g>
+</svg>
