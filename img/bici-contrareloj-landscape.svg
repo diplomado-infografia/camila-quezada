@@ -34,8 +34,8 @@
 	#textos{
 		opacity:0;
 	}
-	#grafica:hover + #textos{
-		opacity:100;
+	#grafica:hover #textos{
+		opacity:1;
 	}
 </style>
 <font horiz-adv-x="1000">
