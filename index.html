@@ -35,7 +35,7 @@
             :root {
                 --bs-link-color-rgb: 23, 27, 31;
                 --bs-link-hover-color-rgb: 0, 0, 0;
-                 --bs-body-bg: #F1F1F1
+                --bs-body-bg: #F1F1F1
             }
             /* para asignar la fuente importada a los títulos */
             h1,
@@ -61,21 +61,24 @@
                 color: #CC1719;
             }
 
-            /* header{
-                background: transparent url(img/infografia_final_web\ -\ pruebas-04_Mesa\ de\ trabajo\ 1.png) top center no-repeat;
+            header{
+                background: transparent url(img/header-landscape.png) top center no-repeat;
                 background-size: 100% auto;
                 padding-top: 55vh;
             }
-            como hago para el header se vea bien en mobile?? */
-            
+            @media screen and (max-width: 720px) {
+                header {
+                    background: url(img/header-portrait.png) top center no-repeat;
+                }
+            }
         </style>
     </head>
     <body>
         <header>
-            <img src="img/header-landscape.png" alt="" class="d-none d-md-block w-100">
-            <img src="img/header-portrait.png" alt="" class="d-md-none w-100">
+            <!-- <img src="img/header-landscape.png" alt="" class="d-none d-md-block w-100">
+            <img src="img/header-portrait.png" alt="" class="d-md-none w-100"> -->
             <div class="container">
-                <div class="row pb-5">
+                <div class="row py-5">
                     <div class="mx-auto col-sm-11 col-md-10">
                         <h1 class="text-center display-3 my-0">Ciclismo en ruta</h1>
                         <h2 class="text-center fs-3 mt-0 mb-3">Juegos Panamericanos de 2023</h2>
